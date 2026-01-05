@@ -16,4 +16,3 @@ mlruns/
 *.log
 .DS_Store
 .vscode/
-tests/

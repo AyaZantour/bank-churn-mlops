@@ -1,0 +1,3 @@
+# requirements_streamlit.txt (for Streamlit Cloud only)
+streamlit==1.28.0
+requests==2.31.0
